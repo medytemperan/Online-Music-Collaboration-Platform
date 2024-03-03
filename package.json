@@ -1,0 +1,26 @@
+{
+"name": "djne-divmeo1",
+"version": "1.0.0",
+"description": "The Online Music Collaboration Platform allows musicians, songwriters, and producers to collaborate on music projects remotely, sharing audio files, recording tracks, and providing feedback in real-time.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/medytemperan/Online-Music-Collaboration-Platform.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "medytemperan",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
